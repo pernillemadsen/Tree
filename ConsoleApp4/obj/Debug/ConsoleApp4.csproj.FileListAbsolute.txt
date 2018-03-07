@@ -1,0 +1,7 @@
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Trees\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
